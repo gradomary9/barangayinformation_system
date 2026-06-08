@@ -161,7 +161,7 @@ Available export formats:
 
 
 ```txt
-https://github.com/gradomary9/barangay_information
+https://github.com/gradomary9/barangayinformation_system.git
 ```
 
 
