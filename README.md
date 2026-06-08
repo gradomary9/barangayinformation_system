@@ -147,7 +147,7 @@ http://127.0.0.1:8000/login
 Go to:
 
 ```txt
-http://127.0.0.1:8000/reports
+https://barangay-information-system-eqeg.onrender.com/reports
 ```
 
 Available export formats:
