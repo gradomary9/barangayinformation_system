@@ -166,6 +166,6 @@ https://github.com/gradomary9/barangayinformation_system.git
 
 
 ```txt
-https://barangay-information-gz3e.onrender.com
+https://barangay-information-system-eqeg.onrender.com/
 ```
 
